@@ -8,9 +8,8 @@ int main()
   {
     printf("\n%d",a[i]);
   } 
-  
-  return 0;
-}=a[0]+a[5];
+  int sum;
+  sum=a[0]+a[5];
    printf("\n sum is%d",sum);
   
   return 0;
